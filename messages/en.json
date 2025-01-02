@@ -1,0 +1,397 @@
+{
+  "Index": {
+    "title": "Faith for Peace",
+    "subtitle": "Uniting spiritual traditions and beliefs in the pursuit of global peace",
+    "cards": {
+      "understandingWisdom": {
+        "title": "Understanding & Wisdom",
+        "description": "Explore peace teachings and insights from different faiths and beliefs",
+        "button": "Learn More"
+      },
+      "dialogue": {
+        "title": "Dialogue",
+        "description": "Join the conversation and connect with others seeking peace",
+        "button": "Join In"
+      },
+      "action": {
+        "title": "Take Action",
+        "description": "Find ways to contribute to peace through your faith or beliefs",
+        "button": "Get Started"
+      }
+    },
+    "purpose": {
+      "title": "Our Shared Purpose",
+      "description": "Together, we can bridge divides and build lasting peace through understanding and respect for all spiritual paths and beliefs."
+    }
+  },
+  "Navigation": {
+    "message": "Uniting faiths and beliefs for a peaceful world",
+    "understandingWisdom": "Understanding & Wisdom",
+    "dialogue": "Dialogue",
+    "future": "Future",
+    "takeAction": "Take Action"
+  },
+  "UnderstandingWisdom": {
+    "title": "Understanding & Wisdom",
+    "introduction": "Throughout human history, spiritual and philosophical traditions have offered profound insights into peace, unity, and our shared humanity. Here we explore these timeless teachings and their relevance to our pursuit of peace.",
+    "quotes": {
+      "sagan": "'The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.' — Carl Sagan",
+      "einstein": "'Peace cannot be kept by force; it can only be achieved by understanding.' — Albert Einstein",
+      "ancient": {
+        "title": "Ancient Wisdom",
+        "buddhist": "Better than a thousand hollow words is one word that brings peace.",
+        "laoTzu": "If there is to be peace in the world, there must be peace in the nations. If there is to be peace in the nations, there must be peace in the cities..."
+      },
+      "modern": {
+        "title": "Modern Insights",
+        "schweitzer": "Ethics is nothing else than reverence for life.",
+        "carson": "Those who contemplate the beauty of the earth find reserves of strength that will endure as long as life lasts."
+      }
+    },
+    "science": {
+      "title": "Scientific Perspectives",
+      "description": "Modern science reveals profound connections between ancient wisdom and our understanding of reality, humanity, and consciousness.",
+      "neuroscience": {
+        "title": "Neuroscience of Peace",
+        "description": "Research reveals how meditation and compassion practices literally reshape our brains, enhancing our capacity for empathy and peaceful behavior."
+      },
+      "physics": {
+        "title": "Quantum Connections",
+        "description": "Quantum physics shows us a deeply interconnected universe, where separation is an illusion and everything exists in a web of relationships."
+      },
+      "ecology": {
+        "title": "Ecological Wisdom",
+        "description": "Environmental science demonstrates how peace with nature is inseparable from peace between peoples, as we share one living Earth."
+      }
+    },
+    "unity": {
+      "title": "Unity in Diversity",
+      "description": "While each tradition offers unique perspectives and practices, they share remarkable commonalities in their deepest insights about peace, compassion, and human potential.",
+      "commonGround": {
+        "title": "Our Shared Foundation",
+        "description": "Every major tradition recognizes the inherent dignity of human life, the importance of compassion, and the possibility of personal and collective transformation."
+      },
+      "uniquePerspectives": {
+        "title": "Unique Paths to Peace",
+        "description": "The diversity of approaches to peace enriches our understanding, offering multiple pathways to healing conflict and fostering harmony."
+      }
+    },
+    "traditions": {
+      "title": "Wisdom of the World's Traditions",
+      
+      "abrahamic": {
+        "title": "Abrahamic Traditions",
+        "description": "Judaism, Christianity, and Islam share deep roots and common values, each offering unique insights into peace and human dignity.",
+        "judaism": {
+          "title": "Judaism",
+          "insight": "Teaches tikkun olam—the responsibility to heal and repair the world through justice, compassion, and righteous action."
+        },
+        "christianity": {
+          "title": "Christianity",
+          "insight": "Emphasizes universal love, forgiveness, and the transformation of hearts as pathways to lasting peace."
+        },
+        "islam": {
+          "title": "Islam",
+          "insight": "Offers profound teachings on inner peace (salaam), social justice, and the unity of human family."
+        }
+      },
+      "eastern": {
+        "title": "Eastern Traditions",
+        "description": "Buddhist, Hindu, and Taoist traditions offer deep insights into the nature of mind, reality, and harmonious living.",
+        "buddhism": {
+          "title": "Buddhism",
+          "insight": "Reveals how understanding the interconnected nature of reality and cultivating compassion leads to peace."
+        },
+        "hinduism": {
+          "title": "Hinduism",
+          "insight": "Teaches ahimsa (non-violence) and the recognition of divine presence in all beings."
+        },
+        "taoism": {
+          "title": "Taoism",
+          "insight": "Shows how aligning with natural harmony and balance brings peace to individuals and communities."
+        }
+      },
+      "indigenous": {
+        "title": "Indigenous Wisdom",
+        "description": "Indigenous traditions worldwide offer profound teachings about living in harmony with each other and the natural world.",
+        "connection": {
+          "title": "Sacred Connections",
+          "insight": "Emphasizes the interconnectedness of all life and the importance of maintaining harmony with the natural world and ancestral wisdom."
+        }
+      },
+      "modern": {
+        "title": "Modern Perspectives",
+        "description": "Contemporary philosophical and scientific insights complement traditional wisdom with new understanding.",
+        "humanism": {
+          "title": "Secular Humanism",
+          "insight": "Affirms human dignity, reason, and ethical behavior as foundations for peace without requiring supernatural beliefs."
+        },
+        "science": {
+          "title": "Scientific Insights",
+          "insight": "Reveals our deep biological connections and the natural basis for cooperation and empathy."
+        }
+      }
+    },
+    "principles": {
+      "title": "Universal Principles",
+      "interconnectedness": {
+        "title": "Interconnectedness",
+        "description": "All traditions recognize that we exist in a web of relationships—with each other, with nature, and with the greater reality that contains us all."
+      },
+      "compassion": {
+        "title": "Compassion",
+        "description": "The capacity to recognize and respond to suffering with kindness and understanding is central to human flourishing and peace."
+      },
+      "justice": {
+        "title": "Justice",
+        "description": "Lasting peace requires addressing inequities and ensuring dignity and opportunities for all people."
+      },
+      "transformation": {
+        "title": "Transformation",
+        "description": "Personal and collective change is possible through conscious effort, wisdom practices, and dedication to higher ideals."
+      }
+    },
+    "practices": {
+      "title": "Contemplative Practices",
+      "description": "Across traditions, contemplative practices have been developed to cultivate peace, wisdom, and understanding. These practices remain powerful tools for personal and collective transformation.",
+      "meditation": {
+        "title": "Meditation",
+        "description": "The practice of stilling the mind and opening the heart allows us to see our shared humanity and cultivate inner peace."
+      },
+      "prayer": {
+        "title": "Prayer & Reflection",
+        "description": "Whether through traditional prayers or personal reflection, connecting with deeper meaning nurtures wisdom and compassion."
+      },
+      "service": {
+        "title": "Selfless Service",
+        "description": "Active engagement in helping others and serving the community is a practical expression of wisdom and a path to peace."
+      }
+    },
+    "action": {
+      "title": "Walking the Path Together",
+      "description": "Understanding and wisdom must lead to action. Join us in bringing these timeless teachings to life in service of peace.",
+      "dialogue": "Join the Dialogue",
+      "join": "Take Action"
+    }
+  },
+  "TakeAction": {
+    "title": "Take Action",
+    "introduction": "Every journey toward peace begins with individual steps. Here are practical ways to contribute to peace through spiritual practice, community engagement, and global action.",
+    "personal": {
+      "title": "Personal Practice",
+      "daily": {
+        "title": "Daily Actions",
+        "description": "Simple yet powerful practices to cultivate peace in your daily life:",
+        "meditation": "Set aside time for meditation or contemplative practice",
+        "prayer": "Engage in prayer or intention-setting for peace",
+        "study": "Study wisdom teachings from various traditions",
+        "kindness": "Practice random acts of kindness and compassion"
+      },
+      "development": {
+        "title": "Personal Growth",
+        "description": "Deepen your understanding and capacity for peace-building:",
+        "learning": "Learn about different faith traditions and perspectives",
+        "reflection": "Journal about your peace journey and insights",
+        "dialogue": "Practice deep listening and peaceful communication",
+        "practice": "Develop conflict resolution skills"
+      }
+    },
+    "community": {
+      "title": "Community Engagement",
+      "local": {
+        "title": "Local Action",
+        "description": "Ways to promote peace and understanding in your local community:",
+        "interfaith": "Join or organize interfaith dialogue groups",
+        "service": "Volunteer for community service projects",
+        "education": "Support peace education initiatives",
+        "support": "Help organize meditation or prayer circles"
+      },
+      "online": {
+        "title": "Online Engagement",
+        "description": "Connect and contribute to peace-building in the digital space:",
+        "discussion": "Participate in online peace discussions",
+        "resources": "Share wisdom teachings and resources",
+        "sharing": "Share your experiences and insights",
+        "support": "Support others on their peace journey"
+      }
+    },
+    "global": {
+      "title": "Global Impact",
+      "initiatives": {
+        "title": "Support Peace Initiatives",
+        "description": "Contribute to larger peace-building efforts:",
+        "organizations": "Support peace-building organizations and projects",
+        "advocacy": "Advocate for peaceful solutions to conflicts",
+        "awareness": "Raise awareness about peace initiatives"
+      },
+      "education": {
+        "title": "Education and Sharing",
+        "description": "Help spread understanding and wisdom:",
+        "teaching": "Share peace teachings with others",
+        "writing": "Write about peace and spirituality",
+        "media": "Create or share peace-promoting content"
+      }
+    },
+    "join": {
+      "title": "Join Our Community",
+      "description": "Connect with others who are working toward peace through faith and understanding. Together, we can make a difference.",
+      "dialogue": "Join the Dialogue",
+      "discord": "Join Discord Community"
+    }
+  },
+  "Dialogue": {
+    "title": "Dialogue",
+    "introduction": "Dialogue across faiths and beliefs is essential for peace. Through respectful conversation and deep listening, we discover our shared humanity and wisdom.",
+    "principles": {
+      "title": "Principles of Dialogue",
+      "core": {
+        "title": "Core Principles",
+        "respect": "Honor each person's beliefs and experiences",
+        "listen": "Practice deep listening without judgment",
+        "openMind": "Maintain an open mind and heart",
+        "learn": "Seek to learn rather than to convince"
+      },
+      "guidelines": {
+        "title": "Dialogue Guidelines",
+        "speak": "Speak from personal experience and understanding",
+        "ask": "Ask questions with genuine curiosity",
+        "share": "Share wisdom while respecting differences",
+        "reflect": "Take time to reflect before responding"
+      }
+    },
+    "engage": {
+      "title": "Ways to Engage",
+      "online": {
+        "title": "Join Our Online Community",
+        "description": "Connect with others in our Discord community, where we explore wisdom across traditions and work together for peace.",
+        "button": "Join Discord Community"
+      },
+      "local": {
+        "title": "Local Dialogue Circles",
+        "description": "Start or join interfaith dialogue groups in your local community.",
+        "starting": {
+          "title": "Starting a Group",
+          "find": "Find interested people in your area",
+          "invite": "Invite people from different backgrounds",
+          "space": "Create a welcoming, safe space for dialogue"
+        },
+        "topics": {
+          "title": "Dialogue Topics",
+          "shared": "Explore shared values and beliefs",
+          "practices": "Share spiritual practices and traditions",
+          "peace": "Discuss paths to peace in our time"
+        }
+      },
+      "personal": {
+        "title": "Personal Connections",
+        "description": "Build deeper understanding through one-to-one dialogue.",
+        "letters": {
+          "title": "Letter Exchange",
+          "description": "Consider starting a letter or email exchange with someone from a different faith tradition. This allows for thoughtful, in-depth sharing of perspectives."
+        },
+        "virtual": {
+          "title": "Virtual Meetings",
+          "description": "Organize or join virtual dialogue sessions to connect with others across geographical boundaries."
+        }
+      }
+    },
+    "resources": {
+      "title": "Dialogue Resources",
+      "topics": {
+        "title": "Discussion Topics",
+        "faith": "The role of faith in modern life",
+        "peace": "Building peace through understanding",
+        "wisdom": "Sharing wisdom across traditions",
+        "practices": "Spiritual practices and their effects"
+      },
+      "questions": {
+        "title": "Reflection Questions",
+        "meaning": "What gives life meaning and purpose?",
+        "practices": "How do our practices help us grow?",
+        "peace": "What does peace mean in our tradition?",
+        "future": "How can we build a peaceful future together?"
+      }
+    },
+    "cta": {
+      "title": "Begin the Dialogue",
+      "description": "Every conversation is a step toward greater understanding and peace. Join us in this important work.",
+      "button": "Join Our Community"
+    }
+  },
+  "Future": {
+    "title": "Our Future",
+    "introduction": "The future of humanity rests in our hands. Through peace and wisdom, we can create a world worthy of our children and unlock humanity's vast potential.",
+    "inheritance": {
+      "title": "Our Children's Inheritance",
+      "description": "Every generation inherits the world from its ancestors and borrows it from its children. Our choices today shape the world they will inhabit tomorrow.",
+      "trust": {
+        "title": "Sacred Trust",
+        "description": "We are guardians of Earth and its future, entrusted with preserving and nurturing life for generations to come.",
+        "peace": "A world free from the burden of war",
+        "environment": "A healthy, thriving planet",
+        "wisdom": "The accumulated wisdom of humanity"
+      },
+      "rights": {
+        "title": "Their Rights",
+        "description": "Future generations have fundamental rights that we must protect through our actions today.",
+        "stability": "The right to peace and stability",
+        "nature": "The right to experience nature's beauty",
+        "opportunities": "The right to pursue their potential"
+      }
+    },
+    "indigenous": {
+      "title": "Wisdom of the Seven Generations",
+      "description": "Indigenous cultures teach us to consider the impact of our decisions on seven generations into the future - roughly 150 years ahead.",
+      "generations": {
+        "title": "Long-term Thinking",
+        "description": "By considering the distant future in our present choices, we cultivate wisdom and responsibility that transcends immediate concerns."
+      },
+      "harmony": {
+        "title": "Living in Harmony",
+        "description": "Indigenous wisdom shows us how to live in balance with nature and each other, ensuring a sustainable future for all life."
+      }
+    },
+    "cosmic": {
+      "title": "Earth and Beyond",
+      "earth": {
+        "title": "Planetary Stewardship",
+        "description": "Our first responsibility is to care for Earth, our only home and the foundation of our future.",
+        "climate": "Addressing climate change and environmental challenges",
+        "biodiversity": "Protecting and restoring Earth's biodiversity",
+        "resources": "Managing resources sustainably for future generations"
+      },
+      "space": {
+        "title": "Cosmic Potential",
+        "description": "As we look to the stars, we must remember that peace on Earth is crucial for realizing our cosmic potential.",
+        "exploration": "Peaceful exploration of space and new frontiers",
+        "challenges": "Preparing for unknown cosmic challenges",
+        "unity": "Advancing as a united human species"
+      }
+    },
+    "building": {
+      "title": "Building Tomorrow",
+      "education": {
+        "title": "Education and Wisdom",
+        "description": "Preparing future generations with knowledge, values, and skills for building a peaceful world.",
+        "knowledge": "Sharing knowledge across cultures",
+        "values": "Teaching peace and understanding",
+        "skills": "Building conflict resolution skills",
+        "wisdom": "Passing on ancestral wisdom"
+      },
+      "peace": {
+        "title": "Sustainable Peace",
+        "description": "Creating lasting peace requires building strong foundations today.",
+        "dialogue": "Fostering ongoing dialogue",
+        "systems": "Building peace-supporting systems",
+        "cooperation": "Encouraging global cooperation",
+        "justice": "Ensuring justice and equality"
+      }
+    },
+    "action": {
+      "title": "Shape the Future",
+      "description": "Join us in building a peaceful, sustainable future for all generations to come.",
+      "join": "Join Our Community",
+      "act": "Take Action Now"
+    }
+  }
+}

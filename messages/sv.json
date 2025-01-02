@@ -1,0 +1,420 @@
+{
+  "Index": {
+    "title": "Tro för fred",
+    "subtitle": "Andliga traditioner och trosuppfattningar i strävan efter global fred",
+    "cards": {
+      "understandingWisdom": {
+        "title": "Förståelse & visdom",
+        "description": "Utforska fred genom läror och insikter från olika religioner och trosuppfattningar",
+        "button": "Läs Mer"
+      },
+      "dialogue": {
+        "title": "Dialog",
+        "description": "Delta i samtal och anslut till andra som söker fred",
+        "button": "Delta"
+      },
+      "action": {
+        "title": "Agera",
+        "description": "Hitta sätt att bidra till fred genom din tro eller dina övertygelser",
+        "button": "Kom Igång"
+      }
+    },
+    "purpose": {
+      "title": "Vår gemensamma målsättning",
+      "description": "Tillsammans kan vi överbrygga klyftor och skapa varaktig fred genom förståelse och respekt för alla andliga vägar och övertygelser."
+    }
+  },
+  "Navigation": {
+    "message": "Förenar religioner och trosuppfattningar för en fredlig värld",
+    "understandingWisdom": "Förståelse & visdom",
+    "dialogue": "Dialog",
+    "future": "Framtid",
+    "takeAction": "Agera"
+  },
+  "UnderstandingWisdom": {
+    "title": "Förståelse & Visdom",
+    "introduction": "Genom mänsklighetens historia har andliga och filosofiska traditioner erbjudit djupa insikter om fred, enhet och vår gemensamma mänsklighet. Här utforskar vi dessa tidlösa lärdomar och deras relevans för vår strävan efter fred.",
+    
+    "quotes": {
+      "sagan": "'Kosmos finns inom oss. Vi är gjorda av stjärnstoff. Vi är universums sätt att lära känna sig själv.' — Carl Sagan",
+      "einstein": "'Fred kan inte bevaras med våld; den kan endast uppnås genom förståelse.' — Albert Einstein",
+      "ancient": {
+        "title": "Forntida Visdom",
+        "buddhist": "Bättre än tusen tomma ord är ett ord som bringar fred.",
+        "laoTzu": "Om det ska bli fred i världen måste det vara fred i nationerna. Om det ska bli fred i nationerna måste det vara fred i städerna..."
+      },
+      "modern": {
+        "title": "Moderna Insikter",
+        "schweitzer": "Etik är inget annat än vördnad för livet.",
+        "carson": "De som betraktar jordens skönhet finner styrka som varar livet ut."
+      }
+    },
+
+    "science": {
+      "title": "Vetenskapliga Perspektiv",
+      "description": "Modern vetenskap avslöjar djupa kopplingar mellan forntida visdom och vår förståelse av verkligheten, mänskligheten och medvetandet.",
+      "neuroscience": {
+        "title": "Fredens Neurovetenskap",
+        "description": "Forskning visar hur meditation och medkänsla bokstavligen omformar våra hjärnor och ökar vår förmåga till empati och fredligt beteende."
+      },
+      "physics": {
+        "title": "Kvantförbindelser",
+        "description": "Kvantfysiken visar oss ett djupt sammankopplat universum, där separation är en illusion och allt existerar i ett nätverk av relationer."
+      },
+      "ecology": {
+        "title": "Ekologisk Visdom",
+        "description": "Miljövetenskapen visar hur fred med naturen är oskiljaktig från fred mellan folk, eftersom vi delar en levande jord."
+      }
+    },
+    "unity": {
+      "title": "Enhet i Mångfald",
+      "description": "Medan varje tradition erbjuder unika perspektiv och praktiker, delar de anmärkningsvärda likheter i sina djupaste insikter om fred, medkänsla och mänsklig potential.",
+      "commonGround": {
+        "title": "Vår Gemensamma Grund",
+        "description": "Varje stor tradition erkänner människolivets inneboende värdighet, vikten av medkänsla och möjligheten till personlig och kollektiv förändring."
+      },
+      "uniquePerspectives": {
+        "title": "Unika Vägar till Fred",
+        "description": "Mångfalden av tillvägagångssätt för fred berikar vår förståelse och erbjuder flera vägar till att läka konflikter och främja harmoni."
+      }
+    },
+
+    "traditions": {
+      "title": "Världens Traditioners Visdom",
+      
+      "abrahamic": {
+        "title": "Abrahamitiska Traditioner",
+        "description": "Judendomen, kristendomen och islam delar djupa rötter och gemensamma värderingar, var och en med unika insikter om fred och mänsklig värdighet.",
+        "judaism": {
+          "title": "Judendom",
+          "insight": "Lär ut tikkun olam—ansvaret att hela och reparera världen genom rättvisa, medkänsla och rättfärdigt handlande."
+        },
+        "christianity": {
+          "title": "Kristendom",
+          "insight": "Betonar universell kärlek, förlåtelse och hjärtats förvandling som vägar till varaktig fred."
+        },
+        "islam": {
+          "title": "Islam",
+          "insight": "Erbjuder djupa lärdomar om inre fred (salaam), social rättvisa och den mänskliga familjens enhet."
+        }
+      },
+
+      "eastern": {
+        "title": "Österländska Traditioner",
+        "description": "Buddhistiska, hinduiska och taoistiska traditioner erbjuder djupa insikter om sinnets natur, verkligheten och harmoniskt leverne.",
+        "buddhism": {
+          "title": "Buddhism",
+          "insight": "Visar hur förståelse för verklighetens sammankopplade natur och odlande av medkänsla leder till fred."
+        },
+        "hinduism": {
+          "title": "Hinduism",
+          "insight": "Lär ut ahimsa (icke-våld) och erkännandet av gudomlig närvaro i alla varelser."
+        },
+        "taoism": {
+          "title": "Taoism",
+          "insight": "Visar hur anpassning till naturlig harmoni och balans bringar fred till individer och samhällen."
+        }
+      },
+
+      "indigenous": {
+        "title": "Ursprungsfolkens Visdom",
+        "description": "Ursprungsfolkens traditioner världen över erbjuder djupa lärdomar om att leva i harmoni med varandra och den naturliga världen.",
+        "connection": {
+          "title": "Heliga Förbindelser",
+          "insight": "Betonar allt livs sammankoppling och vikten av att upprätthålla harmoni med den naturliga världen och förfädernas visdom."
+        }
+      },
+
+      "modern": {
+        "title": "Moderna Perspektiv",
+        "description": "Samtida filosofiska och vetenskapliga insikter kompletterar traditionell visdom med ny förståelse.",
+        "humanism": {
+          "title": "Sekulär Humanism",
+          "insight": "Bekräftar mänsklig värdighet, förnuft och etiskt beteende som grunder för fred utan att kräva övernaturliga övertygelser."
+        },
+        "science": {
+          "title": "Vetenskapliga Insikter",
+          "insight": "Avslöjar våra djupa biologiska kopplingar och den naturliga grunden för samarbete och empati."
+        }
+      }
+    },
+
+    "principles": {
+      "title": "Universella Principer",
+      "interconnectedness": {
+        "title": "Sammankoppling",
+        "description": "Alla traditioner erkänner att vi existerar i ett nätverk av relationer—med varandra, med naturen och med den större verklighet som omger oss alla."
+      },
+      "compassion": {
+        "title": "Medkänsla",
+        "description": "Förmågan att känna igen och svara på lidande med vänlighet och förståelse är central för mänskligt blomstrande och fred."
+      },
+      "justice": {
+        "title": "Rättvisa",
+        "description": "Varaktig fred kräver att vi tar itu med ojämlikheter och säkerställer värdighet och möjligheter för alla människor."
+      },
+      "transformation": {
+        "title": "Förvandling",
+        "description": "Personlig och kollektiv förändring är möjlig genom medveten ansträngning, visdomspraktiker och hängivenhet till högre ideal."
+      }
+    },
+
+    "practices": {
+      "title": "Kontemplativa Praktiker",
+      "description": "Genom traditionerna har kontemplativa praktiker utvecklats för att odla fred, visdom och förståelse. Dessa praktiker förblir kraftfulla verktyg för personlig och kollektiv förvandling.",
+      "meditation": {
+        "title": "Meditation",
+        "description": "Praktiken att stilla sinnet och öppna hjärtat låter oss se vår gemensamma mänsklighet och odla inre fred."
+      },
+      "prayer": {
+        "title": "Bön & Reflektion",
+        "description": "Vare sig genom traditionella böner eller personlig reflektion, näring av djupare mening främjar visdom och medkänsla."
+      },
+      "service": {
+        "title": "Osjälvisk Tjänst",
+        "description": "Aktivt engagemang i att hjälpa andra och tjäna samhället är ett praktiskt uttryck för visdom och en väg till fred."
+      }
+    },
+
+    "action": {
+      "title": "Vandra Vägen Tillsammans",
+      "description": "Förståelse och visdom måste leda till handling. Följ med oss i att ge liv åt dessa tidlösa lärdomar i fredens tjänst.",
+      "dialogue": "Delta i Dialogen",
+      "join": "Ta Till Handling"
+    }
+  },
+  "Dialogue": {
+    "title": "Dialog",
+    "introduction": "Dialog mellan olika trosuppfattningar och övertygelser är avgörande för fred. Genom respektfulla samtal och djupt lyssnande upptäcker vi vår gemensamma mänsklighet och visdom.",
+    
+    "principles": {
+      "title": "Dialogens Principer",
+      "core": {
+        "title": "Grundprinciper",
+        "respect": "Hedra varje persons övertygelser och erfarenheter",
+        "listen": "Praktisera djupt lyssnande utan att döma",
+        "openMind": "Behåll ett öppet sinne och hjärta",
+        "learn": "Sök att lära snarare än att övertyga"
+      },
+      "guidelines": {
+        "title": "Riktlinjer för Dialog",
+        "speak": "Tala utifrån personlig erfarenhet och förståelse",
+        "ask": "Ställ frågor med genuin nyfikenhet",
+        "share": "Dela visdom medan du respekterar olikheter",
+        "reflect": "Ta tid att reflektera innan du svarar"
+      }
+    },
+
+    "engage": {
+      "title": "Sätt att Engagera Sig",
+      "online": {
+        "title": "Gå Med i Vår Online-gemenskap",
+        "description": "Anslut till andra i vår Discord-gemenskap, där vi utforskar visdom över traditionsgränser och arbetar tillsammans för fred.",
+        "button": "Gå Med i Discord-gemenskapen"
+      },
+      "local": {
+        "title": "Lokala Dialogcirklar",
+        "description": "Starta eller gå med i dialoggrupper för olika trosuppfattningar i ditt lokalsamhälle.",
+        "starting": {
+          "title": "Starta en Grupp",
+          "find": "Hitta intresserade personer i ditt område",
+          "invite": "Bjud in personer från olika bakgrunder",
+          "space": "Skapa ett välkomnande, tryggt utrymme för dialog"
+        },
+        "topics": {
+          "title": "Dialogämnen",
+          "shared": "Utforska gemensamma värderingar och övertygelser",
+          "practices": "Dela andliga praktiker och traditioner",
+          "peace": "Diskutera vägar till fred i vår tid"
+        }
+      },
+      "personal": {
+        "title": "Personliga Kontakter",
+        "description": "Bygg djupare förståelse genom personlig dialog.",
+        "letters": {
+          "title": "Brevutbyte",
+          "description": "Överväg att starta ett brev- eller e-postutbyte med någon från en annan trostradition. Detta möjliggör eftertänksamt, djupgående utbyte av perspektiv."
+        },
+        "virtual": {
+          "title": "Virtuella Möten",
+          "description": "Organisera eller delta i virtuella dialogsessioner för att ansluta till andra över geografiska gränser."
+        }
+      }
+    },
+
+    "resources": {
+      "title": "Dialogresurser",
+      "topics": {
+        "title": "Diskussionsämnen",
+        "faith": "Trons roll i det moderna livet",
+        "peace": "Bygga fred genom förståelse",
+        "wisdom": "Dela visdom över traditionsgränser",
+        "practices": "Andliga praktiker och deras effekter"
+      },
+      "questions": {
+        "title": "Reflektionsfrågor",
+        "meaning": "Vad ger livet mening och syfte?",
+        "practices": "Hur hjälper våra praktiker oss att växa?",
+        "peace": "Vad betyder fred i vår tradition?",
+        "future": "Hur kan vi bygga en fredlig framtid tillsammans?"
+      }
+    },
+
+    "cta": {
+      "title": "Börja Dialogen",
+      "description": "Varje samtal är ett steg mot större förståelse och fred. Följ med oss i detta viktiga arbete.",
+      "button": "Gå Med i Vår Gemenskap"
+    }
+  },
+  "Future": {
+    "title": "Vår Framtid",
+    "introduction": "Mänsklighetens framtid vilar i våra händer. Genom fred och visdom kan vi skapa en värld värdig våra barn och frigöra mänsklighetens enorma potential.",
+
+    "inheritance": {
+      "title": "Våra Barns Arv",
+      "description": "Varje generation ärver världen från sina förfäder och lånar den från sina barn. Våra val idag formar den värld de kommer att leva i imorgon.",
+      "trust": {
+        "title": "Heligt Förtroende",
+        "description": "Vi är väktare av jorden och dess framtid, anförtrodda att bevara och vårda livet för kommande generationer.",
+        "peace": "En värld fri från krigets börda",
+        "environment": "En frisk och blomstrande planet",
+        "wisdom": "Mänsklighetens samlade visdom"
+      },
+      "rights": {
+        "title": "Deras Rättigheter",
+        "description": "Framtida generationer har grundläggande rättigheter som vi måste skydda genom våra handlingar idag.",
+        "stability": "Rätten till fred och stabilitet",
+        "nature": "Rätten att uppleva naturens skönhet",
+        "opportunities": "Rätten att förverkliga sin potential"
+      }
+    },
+
+    "indigenous": {
+      "title": "De Sju Generationernas Visdom",
+      "description": "Ursprungsbefolkningar lär oss att överväga hur våra beslut påverkar sju generationer framåt - ungefär 150 år in i framtiden.",
+      "generations": {
+        "title": "Långsiktigt Tänkande",
+        "description": "Genom att ta hänsyn till den avlägsna framtiden i våra nuvarande val, odlar vi visdom och ansvar som överskrider omedelbara bekymmer."
+      },
+      "harmony": {
+        "title": "Leva i Harmoni",
+        "description": "Ursprungsbefolkningars visdom visar oss hur vi kan leva i balans med naturen och varandra, för att säkerställa en hållbar framtid för allt liv."
+      }
+    },
+
+    "cosmic": {
+      "title": "Jorden och Bortom",
+      "earth": {
+        "title": "Planetärt Förvaltarskap",
+        "description": "Vårt främsta ansvar är att ta hand om jorden, vårt enda hem och grunden för vår framtid.",
+        "climate": "Hantera klimatförändringarna och miljöutmaningarna",
+        "biodiversity": "Skydda och återställa jordens biologiska mångfald",
+        "resources": "Hantera resurser hållbart för framtida generationer"
+      },
+      "space": {
+        "title": "Kosmisk Potential",
+        "description": "När vi blickar mot stjärnorna måste vi komma ihåg att fred på jorden är avgörande för att förverkliga vår kosmiska potential.",
+        "exploration": "Fredlig utforskning av rymden och nya gränser",
+        "challenges": "Förbereda oss för okända kosmiska utmaningar",
+        "unity": "Utvecklas som en enad mänsklig art"
+      }
+    },
+
+    "building": {
+      "title": "Bygga Morgondagen",
+      "education": {
+        "title": "Utbildning och Visdom",
+        "description": "Förbereda framtida generationer med kunskap, värderingar och färdigheter för att bygga en fredlig värld.",
+        "knowledge": "Dela kunskap mellan kulturer",
+        "values": "Lära ut fred och förståelse",
+        "skills": "Utveckla konfliktlösningsförmågor",
+        "wisdom": "Föra vidare förfäders visdom"
+      },
+      "peace": {
+        "title": "Hållbar Fred",
+        "description": "Att skapa varaktig fred kräver att vi bygger starka grunder idag.",
+        "dialogue": "Främja pågående dialog",
+        "systems": "Bygga fredsstödjande system",
+        "cooperation": "Uppmuntra globalt samarbete",
+        "justice": "Säkerställa rättvisa och jämlikhet"
+      }
+    },
+
+    "action": {
+      "title": "Forma Framtiden",
+      "description": "Följ med oss i att bygga en fredlig, hållbar framtid för alla kommande generationer.",
+      "join": "Gå Med i Vår Gemenskap",
+      "act": "Agera Nu"
+    }
+  },
+  "TakeAction": {
+    "title": "Ta Till Handling",
+    "introduction": "Varje resa mot fred börjar med individuella steg. Här är praktiska sätt att bidra till fred genom andlig praktik, samhällsengagemang och global handling.",
+    
+    "personal": {
+      "title": "Personlig Praktik",
+      "daily": {
+        "title": "Dagliga Handlingar",
+        "description": "Enkla men kraftfulla praktiker för att odla fred i ditt dagliga liv:",
+        "meditation": "Avsätt tid för meditation eller kontemplativ praktik",
+        "prayer": "Engagera dig i bön eller intentionssättande för fred",
+        "study": "Studera visdomsläror från olika traditioner",
+        "kindness": "Praktisera spontana kärleksgärningar och medkänsla"
+      },
+      "development": {
+        "title": "Personlig Utveckling",
+        "description": "Fördjupa din förståelse och förmåga till fredsbyggande:",
+        "learning": "Lär dig om olika trostraditioner och perspektiv",
+        "reflection": "För dagbok om din fredsresa och insikter",
+        "dialogue": "Öva på djupt lyssnande och fredlig kommunikation",
+        "practice": "Utveckla färdigheter i konfliktlösning"
+      }
+    },
+
+    "community": {
+      "title": "Samhällsengagemang",
+      "local": {
+        "title": "Lokal Handling",
+        "description": "Sätt att främja fred och förståelse i ditt lokalsamhälle:",
+        "interfaith": "Gå med i eller organisera dialoggrupper mellan trosuppfattningar",
+        "service": "Volontärarbeta för samhällstjänstprojekt",
+        "education": "Stöd fredsutbildningsinitiativ",
+        "support": "Hjälp till att organisera meditations- eller bönecirklar"
+      },
+      "online": {
+        "title": "Online-engagemang",
+        "description": "Anslut och bidra till fredsbyggande i det digitala rummet:",
+        "discussion": "Delta i online-diskussioner om fred",
+        "resources": "Dela visdomsläror och resurser",
+        "sharing": "Dela dina erfarenheter och insikter",
+        "support": "Stöd andra på deras fredsresa"
+      }
+    },
+
+    "global": {
+      "title": "Global Påverkan",
+      "initiatives": {
+        "title": "Stöd Fredsinitiativ",
+        "description": "Bidra till större fredsbyggande insatser:",
+        "organizations": "Stöd fredsbyggande organisationer och projekt",
+        "advocacy": "Förespråka fredliga lösningar på konflikter",
+        "awareness": "Öka medvetenheten om fredsinitiativ"
+      },
+      "education": {
+        "title": "Utbildning och Delning",
+        "description": "Hjälp till att sprida förståelse och visdom:",
+        "teaching": "Dela fredsläror med andra",
+        "writing": "Skriv om fred och andlighet",
+        "media": "Skapa eller dela fredsfrämjande innehåll"
+      }
+    },
+
+    "join": {
+      "title": "Gå Med i Vår Gemenskap",
+      "description": "Anslut till andra som arbetar för fred genom tro och förståelse. Tillsammans kan vi göra skillnad.",
+      "dialogue": "Delta i Dialogen",
+      "discord": "Gå Med i Discord-gemenskapen"
+    }
+  }
+}
+

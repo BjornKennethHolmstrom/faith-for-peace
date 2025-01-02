@@ -1,0 +1,34 @@
+{
+  "Index": {
+    "title": "Glaube für den Frieden",
+    "subtitle": "Vereint spirituelle Traditionen und Überzeugungen auf der Suche nach globalem Frieden",
+    "cards": {
+      "understandingWisdom": {
+        "title": "Verständnis & Weisheit",
+        "description": "Erkunden Sie Friedenslehren und Einsichten aus verschiedenen Glaubensrichtungen und Überzeugungen",
+        "button": "Mehr Erfahren"
+      },
+      "dialogue": {
+        "title": "Dialog",
+        "description": "Nehmen Sie am Gespräch teil und verbinden Sie sich mit anderen, die Frieden suchen",
+        "button": "Mitmachen"
+      },
+      "action": {
+        "title": "Handeln",
+        "description": "Finden Sie Wege, um durch Ihren Glauben oder Ihre Überzeugungen zum Frieden beizutragen",
+        "button": "Loslegen"
+      }
+    },
+    "purpose": {
+      "title": "Unser Gemeinsames Ziel",
+      "description": "Gemeinsam können wir Gräben überwinden und dauerhaften Frieden schaffen, durch Verständnis und Respekt für alle spirituellen Wege und Überzeugungen."
+    }
+  },
+  "Navigation": {
+    "message": "Vereint Glaubensrichtungen und Überzeugungen für eine friedliche Welt",
+    "understandingWisdom": "Verständnis & Weisheit",
+    "dialogue": "Dialog",
+    "takeAction": "Handeln"
+  }
+}
+
