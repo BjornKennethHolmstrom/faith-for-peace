@@ -13,6 +13,18 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
+export function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
+  return {
+    title: 'faith for peace',
+    description: 'Uniting spiritual traditions and beliefs in the pursuit of global peace',
+    icons: {
+      icon: [
+        { url: '/peace-heart.svg', type: 'image/svg+xml' },
+      ],
+    },
+  }
+}
+
 export default async function LocaleLayout({
   children,
   params: { locale }
