@@ -19,7 +19,7 @@ export function generateMetadata({ params: { locale } }: { params: { locale: str
     description: 'Uniting spiritual traditions and beliefs in the pursuit of global peace',
     icons: {
       icon: [
-        { url: '/peace-heart.svg', type: 'image/svg+xml' },
+        { url: '/faith-for-peace-heart-with-rays.svg', type: 'image/svg+xml' },
       ],
     },
   }
